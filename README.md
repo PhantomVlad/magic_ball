@@ -11,6 +11,8 @@ Ruby 3.
 
 To run the program
 
-```ruby magic_ball.rb```
+```
+ruby magic_ball.rb
+```
 
 
