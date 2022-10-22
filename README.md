@@ -1,5 +1,16 @@
-Magic ball v. 0.1
+# Magic ball v. 0.1
+## Info
+This program allows you to play the game Magic ball
 
-Program: Ruby 3.
+Magic ball 8 - a toy, a comic way to predict the future.
 
-To run the program, run ```ruby magic_ball.rb```
+[Wiki](https://ru.wikipedia.org/wiki/Magic_8_ball)
+
+## Program
+Ruby 3.
+
+To run the program, run
+
+```ruby magic_ball.rb```
+
+
