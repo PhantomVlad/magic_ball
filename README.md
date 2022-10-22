@@ -9,7 +9,7 @@ Magic ball 8 - a toy, a comic way to predict the future.
 ## Program
 Ruby 3.
 
-To run the program, run
+To run the program
 
 ```ruby magic_ball.rb```
 
